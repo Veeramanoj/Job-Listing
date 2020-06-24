@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Veeramanoj/Job-Listing.git/static/css/main.f2fa19d0.chunk.css",
-    "main.js": "/Veeramanoj/Job-Listing.git/static/js/main.05fe0041.chunk.js",
-    "main.js.map": "/Veeramanoj/Job-Listing.git/static/js/main.05fe0041.chunk.js.map",
-    "runtime-main.js": "/Veeramanoj/Job-Listing.git/static/js/runtime-main.c79c91f6.js",
-    "runtime-main.js.map": "/Veeramanoj/Job-Listing.git/static/js/runtime-main.c79c91f6.js.map",
-    "static/js/2.e0b16173.chunk.js": "/Veeramanoj/Job-Listing.git/static/js/2.e0b16173.chunk.js",
-    "static/js/2.e0b16173.chunk.js.map": "/Veeramanoj/Job-Listing.git/static/js/2.e0b16173.chunk.js.map",
-    "index.html": "/Veeramanoj/Job-Listing.git/index.html",
-    "precache-manifest.6fa2d358b57c87379a99be29341a378d.js": "/Veeramanoj/Job-Listing.git/precache-manifest.6fa2d358b57c87379a99be29341a378d.js",
-    "service-worker.js": "/Veeramanoj/Job-Listing.git/service-worker.js",
-    "static/css/main.f2fa19d0.chunk.css.map": "/Veeramanoj/Job-Listing.git/static/css/main.f2fa19d0.chunk.css.map",
-    "static/js/2.e0b16173.chunk.js.LICENSE.txt": "/Veeramanoj/Job-Listing.git/static/js/2.e0b16173.chunk.js.LICENSE.txt"
+    "main.css": "/Veeramanoj/Job-Listing/static/css/main.f2fa19d0.chunk.css",
+    "main.js": "/Veeramanoj/Job-Listing/static/js/main.05fe0041.chunk.js",
+    "main.js.map": "/Veeramanoj/Job-Listing/static/js/main.05fe0041.chunk.js.map",
+    "runtime-main.js": "/Veeramanoj/Job-Listing/static/js/runtime-main.ff4a7987.js",
+    "runtime-main.js.map": "/Veeramanoj/Job-Listing/static/js/runtime-main.ff4a7987.js.map",
+    "static/js/2.e0b16173.chunk.js": "/Veeramanoj/Job-Listing/static/js/2.e0b16173.chunk.js",
+    "static/js/2.e0b16173.chunk.js.map": "/Veeramanoj/Job-Listing/static/js/2.e0b16173.chunk.js.map",
+    "index.html": "/Veeramanoj/Job-Listing/index.html",
+    "precache-manifest.7639b4b38fc8f390fabe566ff20394db.js": "/Veeramanoj/Job-Listing/precache-manifest.7639b4b38fc8f390fabe566ff20394db.js",
+    "service-worker.js": "/Veeramanoj/Job-Listing/service-worker.js",
+    "static/css/main.f2fa19d0.chunk.css.map": "/Veeramanoj/Job-Listing/static/css/main.f2fa19d0.chunk.css.map",
+    "static/js/2.e0b16173.chunk.js.LICENSE.txt": "/Veeramanoj/Job-Listing/static/js/2.e0b16173.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c79c91f6.js",
+    "static/js/runtime-main.ff4a7987.js",
     "static/js/2.e0b16173.chunk.js",
     "static/css/main.f2fa19d0.chunk.css",
     "static/js/main.05fe0041.chunk.js"
